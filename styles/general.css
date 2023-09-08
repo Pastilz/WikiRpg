@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+header {background-color: maroon;
+        width: 100%;
+        text-align: center;}
+main {background-color: darkred;
+     height: 1450px;
+      float: left;
+       width: 20%;}
+aside {background-color: lightgrey;
+     height: 1450px;
+     float: left;
+      width: 80%;}
+footer {background-color: darkred;
+     position: fixed; bottom:0%;
+      width: 100%;
+       text-align: center;}
+img {max-height: 100px;}
+#Gallery {display: flex wrap; text-align: center;}
